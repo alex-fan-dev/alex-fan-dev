@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Vivienne 👋
 
-<!--
-**alex-fan-dev/alex-fan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master of IT Student @ University of Auckland
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full Stack Development
+- Software Testing
+- QA Automation
+
+## Currently
+
+- Building a location-based web application
+- Studying for ISTQB Foundation Level certification
+- Building industry connections through meetups and networking events
+
+## Featured Projects
+
+### City Explorer Web App
+Team project built with React, TypeScript and Prisma.
+
+### Portfolio Website
+Coming Soon
+
+### Technical Writing
+Substack (Coming Soon)
+
+## Connect with me
+- LinkedIn:https://www.linkedin.com/in/viviennefan/
